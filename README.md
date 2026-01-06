@@ -63,3 +63,12 @@ Those who do not, may move on freely.
 **Founder:** Corvina Keepers  
 **Contact:** tartarysempire@proton.me  
 **Status:** Living archive
+## What is the Corvina Ledger
+
+This repository serves as the chronological record of the Corvina Keepers.
+It documents verifiable events, milestones, and observations as they occurred.
+
+No past entry is altered.
+No future meaning is pre-assumed.
+Interpretation belongs to the reader.
+This is not a white paper, not a roadmap, and not a promise.
