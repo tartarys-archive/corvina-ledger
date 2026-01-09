@@ -1,0 +1,98 @@
+Ledger Entry 0015
+Title: Minting Authority, Control Model, and Pause Logic
+Date: 2026.01.09.
+Repository: corvina-ledger
+
+Summary:
+This entry defines the authority model, control boundaries,
+and safety mechanisms of the Corvina Sigil Jeton (CSJ)
+smart contract v1.
+
+The goal is to enable a single, demonstrative initial mint
+while preserving transparency, reversibility of process,
+and future decentralization.
+
+────────────────────────────
+I. Minting Authority (v1)
+────────────────────────────
+
+Minting Authority:
+- Role: Founder / Initial Custodian
+- Control: Single address (Founder wallet)
+- Network: BNB Chain (Mainnet)
+
+Rationale:
+At v1 stage, minting authority is intentionally centralized
+to:
+- minimize operational complexity,
+- reduce coordination risk,
+- allow rapid demonstration of the full custody → mint flow.
+
+This authority exists solely to execute the initial mint
+documented in Ledger 0014.
+
+────────────────────────────
+II. Minting Scope Limitation
+────────────────────────────
+
+Minting Rules (v1):
+- Minting is permitted only once
+- Minting occurs as a single transaction
+- Total minted amount is capped by declared supply
+
+After execution of the initial mint:
+- No further minting is allowed
+- Minting function becomes permanently inactive
+
+This ensures:
+- no inflation risk,
+- no hidden secondary mint,
+- no silent supply expansion.
+
+────────────────────────────
+III. Pause Mechanism
+────────────────────────────
+
+Pause Function:
+- Enabled: Yes
+- Scope: Minting only
+
+Behavior:
+- When paused, minting is disabled
+- Token transfers remain enabled
+- Treasury distribution remains possible
+
+Purpose:
+- Safety during deployment
+- Emergency response capability
+- Demonstration clarity during initial phase
+
+The pause function does NOT:
+- freeze user balances,
+- restrict transfers,
+- interfere with community onboarding.
+
+────────────────────────────
+IV. Governance Implications
+────────────────────────────
+
+This control model is explicitly temporary.
+
+Future versions may introduce:
+- multi-signature mint authority,
+- community-governed mint approvals,
+- role-based permissions,
+- on-chain governance extensions.
+
+These changes are intentionally deferred to v2+,
+after real-world operation has been observed.
+
+────────────────────────────
+Principles Affirmed:
+- Simplicity over premature decentralization
+- Demonstration before expansion
+- Authority paired with responsibility
+- Ledger-first accountability
+
+Status:
+Approved for recording as Ledger Entry 0015.
