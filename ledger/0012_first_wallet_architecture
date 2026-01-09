@@ -1,0 +1,36 @@
+Ledger Entry 0012
+Title: First Wallet Architecture Finalized
+
+Date: 2026.01.09.
+Repository: corvina-ledger
+
+Description:
+The initial wallet architecture of the Corvina Keepers project has been finalized.
+
+A two-address model has been established on the BNB network:
+
+1. Founder / Minter Wallet  
+   - Holds minting authority for the initial smart contract (v1).
+   - Responsible for the first demonstration mint.
+   - Acts as the operational key during the bootstrap phase.
+
+2. Treasury Wallet  
+   - Serves as the custody and distribution address.
+   - Receives minted Corvina Sigil Jetons before allocation.
+   - Represents the proto-community treasury under transparent logging.
+
+Design Principles:
+- Minimal complexity for v1 to reduce attack surface.
+- Clear separation of authority and custody.
+- Full traceability via public blockchain and GitHub ledger.
+- Pause functionality planned after initial mint to prevent uncontrolled issuance.
+
+Scope:
+This architecture is intentionally simple and temporary.
+It exists solely to demonstrate the minting, custody, and allocation model in practice.
+
+Future governance, multi-signature control, and expanded roles
+are explicitly deferred to v2 and beyond.
+
+Status:
+Completed and operational.
