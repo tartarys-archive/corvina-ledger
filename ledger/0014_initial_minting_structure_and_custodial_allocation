@@ -1,0 +1,84 @@
+Ledger Entry 0014
+Title: Initial Minting Structure and Custodial Allocation
+Date: 2026.01.09.
+Repository: corvina-ledger
+
+Summary:
+This entry records the structure, logic, and allocation of the initial
+Corvina Sigil Jeton (CSJ) minting, distinguishing between
+demonstration-based physical custody and intellectual custodianship.
+
+Declared Initial Supply:
+- Total CSJ supply: 369,000
+
+────────────────────────────
+I. Physical Banknote Demonstration Mint
+────────────────────────────
+
+Purpose:
+To demonstrate the physical custody → digitization → minting process
+using historical banknotes.
+
+Parameters:
+- Archived historical banknotes: 10
+- Minting ratio: 1 banknote = 1 CSJ
+- Total CSJ minted for banknotes: 10
+
+Allocation:
+- Founder allocation: 9 CSJ
+- Community (Corvina Keepers Treasury): 1 CSJ
+
+Result:
+This establishes a working example of physical asset–backed minting
+under custodial oversight.
+
+────────────────────────────
+II. Intellectual Custody Mint
+────────────────────────────
+
+Remaining CSJ after demonstration mint:
+- 369,000 − 10 = 368,990 CSJ
+
+These CSJ represent custodial responsibility for intellectual assets
+voluntarily entrusted by the Founder to the Corvina Keepers community.
+
+Intellectual Assets Covered:
+1. Corvina Keepers White Paper
+2. Corvina Sigil Jeton (CSJ) Standard
+3. Y-B Standard
+4. Cultural Signature Token (CST) Standard
+
+Allocation Principle:
+The intellectual custody mint is split evenly between
+the Founder and the Community.
+
+Allocation:
+- Founder allocation: 184,495 CSJ
+- Community (Corvina Keepers Treasury): 184,495 CSJ
+
+────────────────────────────
+III. Final Allocation Summary
+────────────────────────────
+
+Founder Total:
+- From banknotes: 9 CSJ
+- From intellectual custody: 184,495 CSJ
+- Founder total: 184,504 CSJ
+
+Community (Treasury) Total:
+- From banknotes: 1 CSJ
+- From intellectual custody: 184,495 CSJ
+- Community total: 184,496 CSJ
+
+Total Supply Check:
+- Founder + Community = 369,000 CSJ ✔
+
+────────────────────────────
+Principles Affirmed:
+- No speculative minting
+- All CSJ are tied to documented physical or intellectual custody
+- Allocation is transparent, auditable, and ledger-recorded
+- Community guardianship is structurally embedded from genesis
+
+Status:
+Approved for recording as Ledger Entry 0014.
