@@ -1,0 +1,54 @@
+# 0017a – Document Hashing Intent (Pre-Physical Finalization)
+
+## Status
+Intent Declaration  
+Pre-Minting / Pre-Signature Phase
+2026.01.10.
+
+## Context
+At this stage, all Version 1 documents of the Corvina Keepers initiative
+(Corvina Keepers White Paper v1, Corvina Sigil Standard v1, CST Standard v1, Y-B Standard v1)
+exist in finalized digital PDF form and are publicly timestamped via GitHub repositories.
+
+No physical printing, signing, or hashing has yet occurred.
+
+## Intent
+This entry formally records the intent that:
+
+- All finalized PDF documents will be:
+  - physically printed,
+  - manually signed by the Founder,
+  - and only then cryptographically hashed (SHA-256).
+
+- The resulting hashes will serve as:
+  - immutable fingerprints of the signed physical documents,
+  - anchors for subsequent NFT witnesses,
+  - and references for treasury custody records.
+
+## Principle
+Hashing SHALL NOT precede physical finalization.
+
+Digital hashes are considered valid **only if** they correspond
+to documents that have been:
+- printed,
+- reviewed in physical form,
+- and signed.
+
+This preserves the primacy of the physical act over the digital representation.
+
+## Non-Action Statement
+No hashes are generated at this stage.
+No NFTs are minted at this stage.
+No on-chain actions are performed at this stage.
+
+This entry exists solely to prevent retroactive ambiguity.
+
+## Forward Reference
+The first document hashes will be recorded in a subsequent ledger entry,
+following physical printing and signature.
+
+---
+
+**Ledger Role:** Boundary Marker  
+**Prevents:** Backdating, retroactive hashing, digital-first substitution  
+**Affirms:** Physical → Cryptographic → On-Chain sequence
