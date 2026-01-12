@@ -1,0 +1,109 @@
+# 0020 — Scalability, Jurisdiction Expansion, and Hybrid Model Rationale Refinement
+2026.01.12.
+## Context
+
+Following the publication of the initial Corvina Keepers White Paper and Standards (v1), an external question emerged regarding the long-term scalability of the model, specifically:
+
+- How the archival and minting framework could be extended beyond Hungarian historical banknotes
+- Whether the system is inherently limited to a single national context
+- How expansion can occur without compromising trust, custody integrity, or auditability
+
+This ledger entry records the clarified position of the Founder regarding scalability, jurisdictional expansion, and the role of the hybrid custody model.
+
+---
+
+## Scalability by Design, Not by Assumption
+
+The Corvina Keepers framework is intentionally **non-global by default**.
+
+Scalability is not treated as an automatic consequence of technology, but as a **governance decision** grounded in:
+
+- Cultural legitimacy
+- Archival competence
+- Custodial capacity
+- Community trust
+
+Expansion is therefore **opt-in, staged, and ledger-governed**, not implicit.
+
+---
+
+## Jurisdiction Expansion Principles
+
+Expansion to additional countries or historical monetary systems is considered feasible **only under the following principles**:
+
+1. **Discrete Jurisdiction Modules**  
+   Each country or monetary tradition constitutes a separate archival domain, with its own ruleset, expert validation, and documentation standards.
+
+2. **Local Expertise Requirement**  
+   Inclusion of foreign banknotes requires qualified numismatic or historical expertise capable of:
+   - Authenticity verification
+   - Condition assessment
+   - Historical context validation
+
+3. **Ledger-First Admission**  
+   Any new jurisdiction must be introduced via a formal ledger entry prior to:
+   - Archival intake
+   - NFT creation
+   - Jeton minting
+
+4. **Non-Uniform Valuation**  
+   No assumption is made that one physical unit equals one jeton across jurisdictions. Valuation models may differ by:
+   - Rarity
+   - Condition
+   - Historical relevance
+   - Cultural significance
+
+---
+
+## Hybrid Custody Model — Refined Rationale
+
+The hybrid custody model (physical custody + digital representation) is reaffirmed as a **deliberate long-term security strategy**, not a transitional compromise.
+
+Key refinements:
+
+- **Physical custody** provides:
+  - Material scarcity
+  - Cultural anchoring
+  - Quantum-resilient value preservation
+
+- **Digital custody (NFT / on-chain records)** provides:
+  - Global visibility
+  - Verifiable provenance
+  - Immutable audit trails
+
+The combination mitigates risks inherent in purely digital or purely physical systems.
+
+---
+
+## Why Hybrid Matters for Expansion
+
+As jurisdictional scope increases, so do risks related to:
+
+- Digital-only trust assumptions
+- Cryptographic uncertainty over decades
+- Regulatory and technological shifts
+
+The hybrid model allows Corvina Keepers to expand **without collapsing into abstraction**, preserving tangible anchors across cultures and eras.
+
+---
+
+## Forward Position
+
+- Jurisdiction expansion is **explicitly deferred to v2 and beyond**
+- v1 remains intentionally limited to demonstrate clarity, not scale
+- Any future expansion will be:
+  - Ledger-recorded
+  - Community-reviewed
+  - Technically conservative
+  - Culturally respectful
+
+This entry does not authorize expansion.  
+It defines the **conditions under which expansion may later occur**.
+
+---
+
+## Closing Note
+
+Scalability is not measured by how fast a system grows,  
+but by how long it remains trustworthy.
+
