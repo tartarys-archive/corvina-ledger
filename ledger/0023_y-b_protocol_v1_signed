@@ -1,0 +1,66 @@
+# 0023 – Y-B Protocol v1 Sealing & Custodial Registration
+2026.01.20.
+## Timestamp
+Recorded upon cryptographic verification of the signed Y-B Protocol v1 document.
+
+## Context
+The Y-B Protocol defines the ethical and procedural framework for
+witness-based protection, disclosure, and non-coercive governance
+within the Corvina Keepers ecosystem.
+
+With the completion of its physical signing, scanning, PDF generation,
+and SHA-256 hashing, the protocol now transitions from draft state
+into sealed custodial status.
+
+## Document Sealed
+- Y-B Protocol v1 (signed original, scanned PDF)
+
+## Cryptographic Proof
+Y-B Protocol v1  
+SHA-256 hash:
+
+549cfd2c09a80e852fe19a2ff31e1bbe335bf08fe363dba11a7a9ab64daf1f5e
+
+This hash uniquely identifies the exact document state at the moment of sealing.
+
+## Custodial Status
+The Y-B Protocol v1 is hereby placed under **Corvina Keepers Custodianship**.
+
+Custodianship implies:
+- Preservation of the signed original
+- Immutable reference via cryptographic fingerprint
+- Protection against silent modification or substitution
+- Explicit versioning for any future amendments
+
+The protocol is considered **ethically binding** within the Corvina Keepers framework,
+while remaining non-coercive and non-jurisdictional.
+
+## Relationship to Other Sealed Artifacts
+The Y-B Protocol v1 joins the following sealed foundational documents:
+- Corvina Keepers White Paper v1
+- Corvina Sigil Standard v1
+- CST Standard v1
+
+Together, these documents form the **normative and procedural spine**
+of the Corvina Keepers system.
+
+## Disclosure Policy
+Public availability of the Y-B Protocol v1 may occur at any later stage,
+provided that the distributed file matches the recorded hash.
+
+Ledger publication itself constitutes proof of existence, authorship,
+and temporal priority.
+
+## Status
+Sealing completed.  
+Protocol enters custodial phase.
+
+## Closing Statement
+From this ledger entry onward, the Y-B Protocol v1 stands as a
+fixed ethical reference point.
+
+Governance may evolve.  
+Standards may refine.  
+But this protocol remains the declared moral baseline of the system.
+
+Only Honor.
