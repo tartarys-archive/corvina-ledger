@@ -1,0 +1,70 @@
+CORVINA KEEPERS
+Corvina Scan Manifest – v1.0
+
+Artifact Set: First Ten Notes
+Purpose: Visual source anchoring and integrity record
+Scan Date: 2026-01-26
+Device: HP LaserJet Pro MFP M28a
+Format: PDF (raw scan)
+Processing: None
+Hash Algorithm: SHA-256
+
+--------------------------------
+1. Banknote
+Denomination: 100 Pengő
+Year: 1945
+Hash: acb06ec4ef4bf0cc6e03113c0913bfdfed00266da83e49317c6b2cdf0f737c18
+
+2. Banknote
+Denomination: 100 Pengő
+Year: 1930
+Hash: 4269ebbe316e13263dd5b52634dfa3c1cea52e2abb772615e00b1692aa824307
+
+3. Banknote
+Denomination: 100 Pengő
+Year: 1930
+Hash: 15f145aae408f57c46d01b2ac02a675098dcecb5c363af7a746c91c3da407daf
+
+4. Banknote
+Denomination: 100 Pengő
+Year: 1930
+Hash: e82f45f2301c67079683b6b34b23da65bc118f3126a4f3c4a803fea24dc346a6
+
+5. Banknote
+Denomination: 100 Pengő
+Year: 1930
+Hash: 4fb26d54e9d787db125f6a974a315580deb6f145dbf9d36b7c8388f77ea9cfc5
+
+6. Banknote
+Denomination: 100 Pengő
+Year: 1930
+Hash: 081ca45854ee9d5ca407841fcc3dbfbaac2b0275868279ba344aaa18659e1a96
+
+7. Banknote
+Denomination: 20 Pengő
+Year: 1941
+Hash: 4d19c468b0640b1890ecb44ef6d1b2beb470784b954e7644d88106247e620c7
+
+8. Banknote
+Denomination: 20 Pengő
+Year: 1941
+Hash: ced53238a118374e35e71ca21e8a9acd68be443c43c91e65ed4fc5284203ad74
+
+9. Banknote
+Denomination: 20 Pengő
+Year: 1941
+Hash: a5a306701b33fdc8be7ab47e2ac5eb0c75b424197e941ab9259c8e08344cafab
+
+10. Banknote
+Denomination: 10 Korona
+Year: 1920
+Hash: bac9329175bffc8eafef2728cce26a0d8d03fa7e8e7eaa1a5ce476e094de4709
+
+--------------------------------
+
+Declaration:
+These hashes represent unmodified visual scans of historical banknotes.
+They serve as integrity anchors and temporal references within the
+Corvina Keepers archive.
+
+Only Honor.
