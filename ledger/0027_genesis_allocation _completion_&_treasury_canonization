@@ -1,0 +1,76 @@
+CORVINA KEEPERS — LEDGER ENTRY 0027
+2026.01.29.
+Ledger ID: 0027
+Event: WP v1 Genesis Allocation – Completion & Treasury Canonization
+Status: Final / Canonical
+Network: BNB Smart Chain (BSC)
+
+Token
+
+Name: Corvina Sigil Jeton
+
+Symbol: CSJ
+
+Decimals: 0
+
+Total Supply (canonical): 369,000 CSJ
+
+Smart Contract
+
+Contract Creation Hash:
+0x11a4dB35DEB75723b85e96eDe3803852DF3F73ff
+
+BscScan Token Reference:
+https://bscscan.com/token/0x11a4db35deb75723b85e96ede3803852df3f73ff
+
+Genesis Allocation (WP v1)
+
+The White Paper v1 defined a fixed and indivisible genesis supply and allocation, which has now been fully executed and verified on-chain.
+
+Founder Allocation: 184,504 CSJ
+
+Community / Treasury Allocation: 184,496 CSJ
+
+Sum Total: 369,000 CSJ
+Discrepancy: None
+Decimals: None (indivisible units)
+
+Treasury Canonization
+
+Corvina Keepers Treasury Address:
+0x248a7d29F786be4576A10C292CC81d34FaD8C0b9
+
+The Treasury allocation was executed in two transactions (test transfer + final transfer) and is fully confirmed on-chain.
+The Treasury balance stands at exactly 184,496 CSJ, in accordance with WP v1.
+
+Verification
+
+All transfers are confirmed on BscScan.
+
+The on-chain state matches the White Paper v1 allocation without exception.
+
+No further genesis minting or redistribution is permitted.
+
+Canonical Statement
+
+With this ledger entry, the Genesis Allocation of Corvina Sigil Jeton (CSJ) is formally closed.
+
+From this point forward:
+
+The Founder and Treasury roles are cryptographically and historically separated.
+
+The Treasury is recognized as a custodial and community-serving entity, not a speculative account.
+
+Any future token movement constitutes a post-genesis historical event and must be recorded separately.
+
+Closing Note
+
+This ledger entry serves as the immutable reference for:
+
+supply integrity,
+
+allocation legitimacy,
+
+and the ethical foundation of the Corvina Keepers economic structure.
+
+Ledger 0027 is sealed.
