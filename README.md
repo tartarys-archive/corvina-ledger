@@ -1,5 +1,5 @@
 # -tartarys-archive
-
+Why?
 
 # Corvina Keepers — Archive
 
@@ -72,3 +72,35 @@ No past entry is altered.
 No future meaning is pre-assumed.
 Interpretation belongs to the reader.
 This is not a white paper, not a roadmap, and not a promise.
+
+Operational Notes
+How?
+
+---
+
+## Ledger Structure & Interpretation Notes
+
+This repository functions as a numbered chronological ledger.
+
+Each entry records a decision, observation, or finalized reference state
+at the time it occurred. Once committed, entries are not altered.
+
+### Numbering
+- Entries are sequential (0000, 0001, …)
+- Gaps are intentional and reflect periods without formal recording
+- New context is added only via new entries
+
+### Sealed vs Living Entries
+- Entries marked as sealed represent finalized reference states
+- Subsequent changes or extensions do not modify sealed entries
+- They are expressed through new ledger entries
+
+### Integrity Model
+- Archived documents are referenced via SHA-256 hashes
+- Hashes are the canonical integrity anchors
+- Public mirrors do not redefine canonical records
+
+This ledger does not prescribe outcomes.
+It preserves sequence, context, and traceability.
+
+Interpretation remains the responsibility of the reader.
