@@ -1,0 +1,93 @@
+ CORVINA KEEPERS — LEDGER ENTRY 0028
+
+Date: 2026.02.02.
+Ledger ID: 0028
+Event: Verifiable Contract Migration & Treasury Reserve Establishment
+Status: Final / Canonical
+Network: BNB Smart Chain (BSC)
+
+Background and Rationale
+
+The originally deployed CSJ smart contract could not be verified on-chain due to technical constraints unrelated to supply intent, allocation design, or custodial principles.
+
+To ensure long-term transparency, auditability, and historical clarity, a new smart contract was deployed and successfully verified on BscScan.
+
+This action constitutes a technical migration for verification purposes and does not represent a reset, expansion, or alteration of the White Paper v1 genesis supply.
+
+Canonical Genesis Supply (Unchanged)
+
+The White Paper v1 defined a fixed and indivisible genesis supply of 369,000 CSJ, which remains unchanged and canonized.
+
+Token: Corvina Sigil Jeton
+
+Symbol: CSJ
+
+Decimals: 0
+
+Canonical Genesis Supply: 369,000 CSJ
+
+Genesis Nature: indivisible units
+
+Verified Smart Contract
+
+Contract Address:
+0x0B94b1d8c30bd4a65277A40DE85925Bf6e652F0d
+
+Contract Creation Transaction Hash:
+0x1dbe9b14c27d95edb483d2a2566ec71cbc572ea4f5c4868e5245ce2f368c902c
+
+Verification Status:
+Successfully verified on BscScan
+
+Allocation Under the Verified Contract
+
+The canonical genesis allocation defined in White Paper v1 has been re-established under the verified contract without modification.
+
+Founder Allocation:
+184,504 CSJ
+
+Treasury Base Allocation:
+184,496 CSJ
+Treasury Base Address:
+0xaFeB433bFB72EadEb826181B2d006ebC33d9D458
+
+Genesis Supply Total:
+369,000 CSJ
+Discrepancy: None
+
+Treasury Reserve Establishment
+
+In addition to the canonical genesis supply, a Treasury Reserve has been created under the verified contract.
+
+Treasury Reserve Allocation (Locked):
+1,000,000 CSJ
+Treasury Reserve Address:
+0xA695a5FbE5db9B0A9bA70052597B5Fe748883452
+
+The Treasury Reserve:
+
+is explicitly excluded from the canonical genesis supply,
+
+is not part of the circulating supply,
+
+is held under custodial control,
+
+may only be released upon verified new deposits entering Corvina Keepers guardianship.
+
+Any release from the Treasury Reserve constitutes a post-genesis historical event and must be recorded in a separate ledger entry.
+
+Canonical Statement
+
+With this ledger entry:
+
+The verified CSJ smart contract is formally canonized.
+
+The White Paper v1 genesis supply of 369,000 CSJ remains intact and unchanged.
+
+The Founder and Treasury Base allocations are reaffirmed under a verifiable contract.
+
+A custodial Treasury Reserve is formally established to support future, deposit-backed expansion without retroactive alteration.
+
+Ledger Entry 0028 supersedes all prior non-verifiable contract references while preserving full historical continuity.
+
+Ledger 0028 is sealed.
