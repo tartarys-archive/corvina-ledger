@@ -1,6 +1,9 @@
 CORVINA KEEPERS
 Corvina Scan Manifest – v1.0
+Ledger ID: 0026
 
+Canonization Type: Batch
+Item Count: 10
 Artifact Set: First Ten Notes
 Purpose: Visual source anchoring and integrity record
 Scan Date: 2026-01-26
@@ -8,6 +11,21 @@ Device: HP LaserJet Pro MFP M28a
 Format: PDF (raw scan)
 Processing: None
 Hash Algorithm: SHA-256
+
+--- ARTIFACT INDEX (CSV) ---
+
+artifact_id,ledger_id,file_name,denomination,currency,year,scan_date,scan_device,sha256,status
+
+CK-A-0026-001,0026,CK-A-0026-001_100Pengo_1945_scan.pdf,100,Pengő,1945,2026-01-26,HP LaserJet Pro MFP M28a,acb06ec4ef4bf0cc6e03113c0913bfdfed00266da83e49317c6b2cdf0f737c18,IN_TREASURY
+CK-A-0026-002,0026,CK-A-0026-002_100Pengo_1930_scan.pdf,100,Pengő,1930,2026-01-26,HP LaserJet Pro MFP M28a,4269ebbe316e13263dd5b52634dfa3c1cea52e2abb772615e00b1692aa824307,IN_TREASURY
+CK-A-0026-003,0026,CK-A-0026-003_100Pengo_1930_scan.pdf,100,Pengő,1930,2026-01-26,HP LaserJet Pro MFP M28a,15f145aae408f57c46d01b2ac02a675098dcecb5c363af7a746c91c3da407daf,IN_TREASURY
+CK-A-0026-004,0026,CK-A-0026-004_100Pengo_1930_scan.pdf,100,Pengő,1930,2026-01-26,HP LaserJet Pro MFP M28a,e82f45f2301c67079683b6b34b23da65bc118f3126a4f3c4a803fea24dc346a6,IN_TREASURY
+CK-A-0026-005,0026,CK-A-0026-005_100Pengo_1930_scan.pdf,100,Pengő,1930,2026-01-26,HP LaserJet Pro MFP M28a,4fb26d54e9d787db125f6a974a315580deb6f145dbf9d36b7c8388f77ea9cfc5,IN_TREASURY
+CK-A-0026-006,0026,CK-A-0026-006_100Pengo_1930_scan.pdf,100,Pengő,1930,2026-01-26,HP LaserJet Pro MFP M28a,081ca45854ee9d5ca407841fcc3dbfbaac2b0275868279ba344aaa18659e1a96,IN_TREASURY
+CK-A-0026-007,0026,CK-A-0026-007_20Pengo_1941_scan.pdf,20,Pengő,1941,2026-01-26,HP LaserJet Pro MFP M28a,4d19c468b0640b1890ecb44ef6d1b2beb470784b954e7644d88106247e620c7,IN_TREASURY
+CK-A-0026-008,0026,CK-A-0026-008_20Pengo_1941_scan.pdf,20,Pengő,1941,2026-01-26,HP LaserJet Pro MFP M28a,ced53238a118374e35e71ca21e8a9acd68be443c43c91e65ed4fc5284203ad74,IN_TREASURY
+CK-A-0026-009,0026,CK-A-0026-009_20Pengo_1941_scan.pdf,20,Pengő,1941,2026-01-26,HP LaserJet Pro MFP M28a,a5a306701b33fdc8be7ab47e2ac5eb0c75b424197e941ab9259c8e08344cafab,IN_TREASURY
+CK-A-0026-010,0026,CK-A-0026-010_10Korona_1920_scan.pdf,10,Korona,1920,2026-01-26,HP LaserJet Pro MFP M28a,bac9329175bffc8eafef2728cce26a0d8d03fa7e8e7eaa1a5ce476e094de4709,IN_TREASURY
 
 --------------------------------
 1. Banknote
